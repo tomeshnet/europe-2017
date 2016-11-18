@@ -29,4 +29,5 @@ This is tentative and should become more developed as we get closer to the date,
 ## Registration
 
 @benhylau: All the months and c3
+
 @dcwalk: ?? December and c3
