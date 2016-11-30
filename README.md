@@ -14,6 +14,9 @@ Join our chat at [tomesh:tomesh.net](https://chat.tomesh.net/#/room/#tomesh:tome
 - [wirelesspt.net](wirelesspt.net), Portugal
 - [wlan slovenija](https://nodes.wlan-si.net), Slovenia
 - [Athens Wireless Metropolitan Network](http://www.awmn.net), Greece
+- [unMonastery Athens](http://unmonastery.org/), Greece
+- [MAZI](http://www.mazizone.eu/), Greece (pilots elsewhere)
+- [Sarantaporo.gr](http://www.sarantaporo.gr/), Sarantaporo, Greece
 
 ## Conferences
 
