@@ -10,6 +10,8 @@ Join our chat at [tomesh:tomesh.net](https://chat.tomesh.net/#/room/#tomesh:tome
 
 - [Guifi.net](https://guifi.net), Mataró & Barcelona
 - [Freifunk](https://freifunk.net), Berlin & Hamburg
+- [ninux](http://ninux.org), Italy
+- [wirelesspt.net](wirelesspt.net), Portugal
 
 ## Conferences
 
