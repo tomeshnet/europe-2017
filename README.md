@@ -12,6 +12,8 @@ Join our chat at [tomesh:tomesh.net](https://chat.tomesh.net/#/room/#tomesh:tome
 - [Freifunk](https://freifunk.net), Berlin & Hamburg
 - [ninux](http://ninux.org), Italy
 - [wirelesspt.net](wirelesspt.net), Portugal
+- [wlan slovenija](https://nodes.wlan-si.net), Slovenia
+- [Athens Wireless Metropolitan Network](http://www.awmn.net), Greece
 
 ## Conferences
 
