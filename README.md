@@ -38,3 +38,5 @@ This is tentative and should become more developed as we get closer to the date,
 @benhylau: All the months and c3
 
 @dcwalk: ?? December and c3
+
+@patcon: c3! (and maybe all the rest?)
