@@ -20,7 +20,7 @@ Join our chat at [tomesh:tomesh.net](https://chat.tomesh.net/#/room/#tomesh:tome
 
 ## Conferences
 
-- [34c3](https://www.ccc.de/en/), Hamburg?
+- [34c3](https://www.ccc.de/en/), Leipzig
 
 ## Hackathon Project Ideas
 
